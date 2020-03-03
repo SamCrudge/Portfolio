@@ -87,7 +87,7 @@ main {
 }
 #portfolio {
 	background-color: #54575c;
-	height: 700px;
+	height: 665px;
 	overflow: auto;
 	margin: 0 auto;
 	
@@ -137,14 +137,15 @@ main {
     margin-left: 128px;
     width: 83px;
     height: 30px;
-    margin-top: 10px;
+    margin-top: 20px;
 	font-size:2rem;
+	background-color:#acacac;
 }
-.button1 :hover {
-	color:blue;
+.button1:hover {
+	background-color:#ffd944;
 }
-.button2 :hover {
-	background-color:green;
+.button2:hover {
+	background-color:#dd4719cf;
 }
 .projectlist img {
 	display: block;
