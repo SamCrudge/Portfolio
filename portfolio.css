@@ -1,12 +1,13 @@
-* {
-	margin: 0;
-}
 @import url("./normalize.css");
 @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+* {
+	margin: 0;
+}
+
 
 
 html{
@@ -25,7 +26,7 @@ nav {
 nav a {
 	font-size: 1.7rem;
 	text-decoration: underline;
-	font-family: 'Oxanium','Times New Roman';
+	font-family: 'Spartan','Times New Roman';
 	color:black;
 	margin-left:15px;
 }
@@ -39,7 +40,7 @@ nav a {
 	height: 550px;
 	text-align: center;
 	padding-top: 100px;
-	font-family: 'Oxanium','Times New Roman';
+	font-family: 'Montserrat','Times New Roman';
 	
 }
 h1 {
@@ -56,7 +57,7 @@ main {
 }
 #aboutme {
 	margin:25px;
-	font-family: 'PT Sans', 'Times New Roman' ;
+	font-family: 'Spartan', 'Times New Roman' ;
 	
 }
 #aboutme img{
@@ -64,17 +65,26 @@ main {
 }
 #aboutme div {
 	float:left;
-	font-size:2rem;
+	font-size:1.6rem;
 	width:45%;
 	margin-top:160px;
 }
+#aboutme h3 {
+	font-size:3rem;
+	margin-bottom:10px;
+	text-decoration:underline;
+	font-family: 'Oxanium','Times New Roman';
+}
+
 #profile {
 	border-radius:50%;
 	margin:45px;
 }
+#qui-gon {
+    margin-top: 50px;
+    margin-left: 30px;
+    font-style: oblique;
+}
 .details {
 	;
-}
-h3 {
-	display:inline;
 }
