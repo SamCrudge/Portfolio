@@ -14,13 +14,13 @@ html{
 	font-size: 62.5%;
 }
 header {
-	background-image: url(assets/mountains.jpeg);
+	background-image: url('assets/mountains.jpeg');
 	width: 100%;
 	height: 825px;
 }
 nav {
 	float: right;
-	margin:20px;
+	margin: 20px;
 	
 }
 nav a {
@@ -51,12 +51,12 @@ h2 {
 }
 main {
 	background-color: #272a31;
-	overflow:auto;
-	margin:0 auto;
-	color:white;
+	overflow: auto;
+	margin: 0 auto;
+	color: white;
 }
 #aboutme {
-	margin:25px;
+	margin: 25px;
 	font-family: 'Spartan', 'Times New Roman' ;
 	
 }
@@ -65,26 +65,70 @@ main {
 }
 #aboutme div {
 	float:left;
-	font-size:1.6rem;
-	width:45%;
-	margin-top:160px;
+	font-size: 1.6rem;
+	width: 45%;
+	margin-top: 160px;
 }
 #aboutme h3 {
-	font-size:3rem;
-	margin-bottom:10px;
-	text-decoration:underline;
+	font-size: 3rem;
+	margin-bottom: 10px;
+	text-decoration: underline;
 	font-family: 'Oxanium','Times New Roman';
 }
 
 #profile {
-	border-radius:50%;
-	margin:45px;
+	border-radius: 50%;
+	margin: 45px;
 }
 #qui-gon {
     margin-top: 50px;
     margin-left: 30px;
     font-style: oblique;
 }
-.details {
-	;
+#portfolio {
+	background-color: #54575c;
+	height: 500px;
+	overflow: auto;
+	margin: 0 auto;
+	
+}
+.skills {
+	float: left;
+	overflow: auto;
+	font-size:7rem;
+}
+.skills ul {
+	list-style: none;
+}
+.skills li {
+	float: left;
+	margin-top:50px;
+	margin-left:130px;
+}
+.skills1 :hover {
+	color:#777bb3;
+}
+.skills2 :hover {
+	color:#e34c26;
+}
+.skills3 :hover {
+	color:#264de4;
+}
+.skills4 :hover {
+	color:#f0db4f;
+}
+.skills5 :hover {
+	color:#95cb48;
+}
+.skills6 :hover {
+	color:#80d9f7;
+}
+.projectlist {
+	float:left;
+}
+.projectlist img {
+    width: 300px;
+    height: 226px;
+    margin-left: 127px;
+    margin-top: 100px;
 }
