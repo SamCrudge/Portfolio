@@ -102,31 +102,51 @@ main {
 }
 .skills li {
 	float: left;
-	margin-top:50px;
-	margin-left:130px;
+	margin-top: 50px;
+	margin-left: 125px;
 }
 .skills1 :hover {
-	color:#777bb3;
+	color: #777bb3;
 }
 .skills2 :hover {
-	color:#e34c26;
+	color: #e34c26;
 }
 .skills3 :hover {
-	color:#264de4;
+	color: #264de4;
 }
 .skills4 :hover {
-	color:#f0db4f;
+	color: #f0db4f;
 }
 .skills5 :hover {
-	color:#95cb48;
+	color: #95cb48;
 }
 .skills6 :hover {
-	color:#80d9f7;
+	color: #80d9f7;
 }
 .projectlist {
-	float:left;
+	float: left;
+	width: 100%;
+}
+.container3 {
+	float: left;
+	text-align: center;
+	font-family: 'Oxanium','Times New Roman';
+}
+.container3 button {
+    margin-left: 128px;
+    width: 83px;
+    height: 30px;
+    margin-top: 10px;
+	font-size:2rem;
+}
+.button1 :hover {
+	color:blue;
+}
+.button2 :hover {
+	background-color:green;
 }
 .projectlist img {
+	display: block;
     width: 300px;
     height: 226px;
     margin-left: 127px;
