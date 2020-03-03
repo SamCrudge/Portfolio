@@ -87,7 +87,7 @@ main {
 }
 #portfolio {
 	background-color: #54575c;
-	height: 500px;
+	height: 700px;
 	overflow: auto;
 	margin: 0 auto;
 	
@@ -126,6 +126,7 @@ main {
 .projectlist {
 	float: left;
 	width: 100%;
+	margin-top:7 0px;
 }
 .container3 {
 	float: left;
