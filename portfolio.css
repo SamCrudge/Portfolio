@@ -4,11 +4,12 @@
 @import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
 body {
     margin: 0;
 }
 
-html{
+html {
     font-size: 62.5%;
 }
 
@@ -68,11 +69,11 @@ main {
     font-family: 'Spartan', 'Times New Roman' ;
 }
 
-#aboutme img{
+#aboutme img {
     float: left;
 }
 
-#aboutme div {
+#aboutme aboutsam {
     float: left;
     font-size: 1.6rem;
     width: 45%;
@@ -92,7 +93,7 @@ main {
     margin: 45px;
 }
 
-#qui-gon {
+#quote {
     margin-top: 50px;
     margin-left: 30px;
     font-style: oblique;
@@ -211,7 +212,7 @@ main {
         padding-top: 50px;
     }
 	
-    .portfh1  h1{
+    .portfh1  h1 {
         font-size: 2rem;
     }
 	
@@ -225,7 +226,7 @@ main {
         float: none;
     }
 	
-    #aboutme div {
+    #aboutme aboutsam {
         float: none;
         font-size: 1.6rem;
         width: 45%;
@@ -234,7 +235,7 @@ main {
         margin-bottom: 45px;
     }
 	
-    #qui-gon {
+    #quote {
         margin-top: 50px;
         margin-left: 0;
         font-style: oblique;
@@ -287,7 +288,7 @@ main {
           margin-right: 10px;
       }
 	  
-      #aboutme div {
+      #aboutme aboutsam {
           float: none;
           font-size: 1.6rem;
           width: 45%;
