@@ -28,7 +28,7 @@ nav a {
     font-weight: 100;
 }
 .social a {
-	text-decoration:none;
+    text-decoration:none;
 }
 
 .icon {
@@ -95,7 +95,7 @@ main {
     float: left;
     overflow: auto;
     font-size: 7rem;
-	margin: 50px 65px 0px 65px;
+    margin: 50px 65px 0px 65px;
 }
 .skills ul {
     list-style: none;
@@ -135,11 +135,11 @@ main {
     padding: 0 20px;
     font-family: 'Oxanium','Times New Roman';
     text-align: center;
-	float: left;
-	width: 30%;
+    float: left;
+    width: 30%;
 }
 .container a {
-	text-decoration:none;
+    text-decoration:none;
 }
 .container3 button {
     width: 83px;
@@ -147,8 +147,8 @@ main {
     margin-top: 20px;
     font-size: 2rem;
     background-color: #acacac;
-	text-align: center;
-	
+    text-align: center;
+    
 }
 .button1:hover {
     background-color: #ffd944;
@@ -163,113 +163,113 @@ main {
     margin: 0 auto;
 }
 @media screen and (max-width: 600px) {
-	header {
-		width: 100%;
-		height: auto;
-	}
-	.social {
-		width: 63px;
-	}
-	nav {
-		float: left;
-		text-align: center;
-		margin-left: 35px;
-	}
-	.portf {
-		padding-top: 50px;
-	}
-	.portfh1  h1{
-		font-size: 2rem;
-	}
-	#aboutme {
-		text-align: center;
-	}
-	#aboutme img {
-		width: 200px;
-		height: 200px;
-		float: none;
-	}
-	#aboutme div {
-	    float: none;
-	    font-size: 1.6rem;
-	    width: 45%;
-	    margin-top: 0px;
-	    margin-left: 35px;
-	    margin-bottom: 45px;
-	}
-	#qui-gon {
-	    margin-top: 50px;
-	    margin-left: -3px;
-	    font-style: oblique;
-	    font-size: 1.13rem;
-	}
-	.skills li {
-	    float: left;
-	    margin-top: 50px;
-	    margin-left: 80px;
-	}
-	.projectlist img {
-	    display: block;
-	    width: 300px;
-	    height: 226px;
-	    margin-top: 57px;
-	}
-	.container3 {
-		width: auto;
-	}
-	.container3 button {
-	    width: 83px;
-	    height: 30px;
-	    margin-top: 20px;
-	    font-size: 2rem;
-	    background-color: #acacac;
+    header {
+        width: 100%;
+        height: auto;
+    }
+    .social {
+        width: 63px;
+    }
+    nav {
+        float: left;
+        text-align: center;
+        margin-left: 35px;
+    }
+    .portf {
+        padding-top: 50px;
+    }
+    .portfh1  h1{
+        font-size: 2rem;
+    }
+    #aboutme {
+        text-align: center;
+    }
+    #aboutme img {
+        width: 200px;
+        height: 200px;
+        float: none;
+    }
+    #aboutme div {
+        float: none;
+        font-size: 1.6rem;
+        width: 45%;
+        margin-top: 0px;
+        margin-left: 35px;
+        margin-bottom: 45px;
+    }
+    #qui-gon {
+        margin-top: 50px;
+        margin-left: -3px;
+        font-style: oblique;
+        font-size: 1.13rem;
+    }
+    .skills li {
+        float: left;
+        margin-top: 50px;
+        margin-left: 80px;
+    }
+    .projectlist img {
+        display: block;
+        width: 300px;
+        height: 226px;
+        margin-top: 57px;
+    }
+    .container3 {
+        width: auto;
+    }
+    .container3 button {
+        width: 83px;
+        height: 30px;
+        margin-top: 20px;
+        font-size: 2rem;
+        background-color: #acacac;
 
-	}
+    }
   }
   @media screen and (max-width: 950px) {
-	  nav {
-		  float:none;
-		  margin:0 auto;
-		  padding-top:10px;
-		  text-align: center;
-	  }
-	  .social {
+      nav {
+          float:none;
+          margin:0 auto;
+          padding-top:10px;
+          text-align: center;
+      }
+      .social {
           position: relative;
           top: -35px;
       }
-	  #profile {
-		  width:25%;
-	      border-radius: 50%;
-	      margin-right: 10px;
-	  }
-	  #aboutme div {
-		  float: none;
-	      font-size: 1.6rem;
-	      width: 45%;
-	      margin: 90px auto 60px auto;
-	  }
-	  #portfolio {
-	      background-color: #54575c;
-	      overflow: auto;
-	      margin: 0 auto;
-	  }
-	  .projectlist img {
-	      display: block;
-	      width: 300px;
-	      height: 226px;
-	      margin-top: 57px;
-	  }
-	  .container3 {
-	      float: none;
-	      font-family: 'Oxanium','Times New Roman';
-		  text-align: center;
-		  width: auto;
-	  }
-	  .container3 button {
-	      width: 83px;
-	      height: 30px;
-	      margin-top: 20px;
-	      font-size: 2rem;
-	      background-color: #acacac;
-	  }
+      #profile {
+          width:25%;
+          border-radius: 50%;
+          margin-right: 10px;
+      }
+      #aboutme div {
+          float: none;
+          font-size: 1.6rem;
+          width: 45%;
+          margin: 90px auto 60px auto;
+      }
+      #portfolio {
+          background-color: #54575c;
+          overflow: auto;
+          margin: 0 auto;
+      }
+      .projectlist img {
+          display: block;
+          width: 300px;
+          height: 226px;
+          margin-top: 57px;
+      }
+      .container3 {
+          float: none;
+          font-family: 'Oxanium','Times New Roman';
+          text-align: center;
+          width: auto;
+      }
+      .container3 button {
+          width: 83px;
+          height: 30px;
+          margin-top: 20px;
+          font-size: 2rem;
+          background-color: #acacac;
+      }
   }
