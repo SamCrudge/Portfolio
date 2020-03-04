@@ -102,6 +102,7 @@ main {
     background-color: #54575c;
     overflow: auto;
     margin: 0 auto;
+	padding-bottom: 30px;
 }
 
 .skills {
