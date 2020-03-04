@@ -227,6 +227,16 @@ main {
 	}
   }
   @media screen and (max-width: 950px) {
+	  nav {
+		  float:none;
+		  margin:0 auto;
+		  padding-top:10px;
+		  text-align: center;
+	  }
+	  .social {
+          position: relative;
+          top: -35px;
+      }
 	  #profile {
 		  width:25%;
 	      border-radius: 50%;
