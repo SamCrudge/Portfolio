@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
-* {
+body {
     margin: 0;
 }
 html{
@@ -136,6 +136,10 @@ main {
     font-family: 'Oxanium','Times New Roman';
     text-align: center;
 	float: left;
+	width: 30%;
+}
+.container a {
+	text-decoration:none;
 }
 .container3 button {
     width: 83px;
@@ -179,15 +183,14 @@ main {
 	}
 	#aboutme {
 		text-align: center;
-		width: 500px;
 	}
 	#aboutme img {
 		width: 200px;
 		height: 200px;
-		margin-left: 60px;
+		float: none;
 	}
 	#aboutme div {
-	    float: left;
+	    float: none;
 	    font-size: 1.6rem;
 	    width: 45%;
 	    margin-top: 0px;
@@ -211,6 +214,9 @@ main {
 	    height: 226px;
 	    margin-top: 57px;
 	}
+	.container3 {
+		width: auto;
+	}
 	.container3 button {
 	    width: 83px;
 	    height: 30px;
@@ -227,11 +233,10 @@ main {
 	      margin-right: 10px;
 	  }
 	  #aboutme div {
-	      float: left;
+		  float: none;
 	      font-size: 1.6rem;
 	      width: 45%;
-	      margin-top: 90px;
-	      margin-bottom: 60px;
+	      margin: 90px auto 60px auto;
 	  }
 	  #portfolio {
 	      background-color: #54575c;
@@ -249,6 +254,7 @@ main {
 	      float: none;
 	      font-family: 'Oxanium','Times New Roman';
 		  text-align: center;
+		  width: auto;
 	  }
 	  .container3 button {
 	      width: 83px;
