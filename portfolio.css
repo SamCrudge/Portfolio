@@ -229,12 +229,11 @@ main {
     }
 	
     .aboutsam {
-        float: none;
+        float: left;
         font-size: 1.6rem;
-        width: 45%;
-        margin-top: 0;
-        margin-left: 35px;
-        margin-bottom: 45px;
+        width: 44%;
+        margin-top: 160px;
+        padding-left: 98px;
     }
 	
     #quote {
