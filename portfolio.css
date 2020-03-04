@@ -228,7 +228,7 @@ main {
         float: none;
     }
 	
-    #aboutme aboutsam {
+    .aboutsam {
         float: none;
         font-size: 1.6rem;
         width: 45%;
@@ -290,7 +290,7 @@ main {
           margin-right: 10px;
       }
 	  
-      #aboutme aboutsam {
+      .aboutsam {
           float: none;
           font-size: 1.6rem;
           width: 45%;
