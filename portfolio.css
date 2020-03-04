@@ -77,8 +77,9 @@ main {
 .aboutsam {
     float: left;
     font-size: 1.6rem;
-    width: 45%;
+    width: 43%;
     margin-top: 160px;
+    margin-left: 80px;
 }
 
 #aboutme h3 {
@@ -231,9 +232,9 @@ main {
     .aboutsam {
         float: left;
         font-size: 1.6rem;
-        width: 44%;
-        margin-top: 160px;
-        padding-left: 98px;
+        width: 43%;
+        margin-top: 140px;
+        padding-left: 100px;
     }
 	
     #quote {
