@@ -269,9 +269,9 @@ main {
   @media screen and (max-width: 950px) {
 	  
       nav {
-          float:none;
-          margin:0 auto;
-          padding-top:10px;
+          float: none;
+          margin: 0 auto;
+          padding-top:1 0px;
           text-align: center;
       }
 	  
