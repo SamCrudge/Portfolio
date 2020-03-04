@@ -92,18 +92,16 @@ main {
     
 }
 .skills {
-    float: left;
     overflow: auto;
     font-size: 7rem;
-    margin: 50px 65px 0px 65px;
+    
 }
 .skills ul {
     list-style: none;
 }
 .skills li {
     float: left;
-    margin-top: 50px;
-    margin-left: 125px;
+    margin: 50px 65px 0px 65px;
 }
 .skills1 :hover {
     color: #777bb3;
