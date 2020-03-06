@@ -117,7 +117,6 @@ main {
     list-style: none;
 	overflow: auto;
 	padding: 0;
-	width: 70%;
 	margin: 70px auto;
 	width: 92%;
 }
@@ -218,6 +217,9 @@ main {
     .portfh1  h1 {
         font-size: 2rem;
     }
+    .skills ul{
+        width: 70%;
+    }
 	
     #aboutme {
         text-align: center;
@@ -234,7 +236,6 @@ main {
         font-size: 1.6rem;
         width: 43%;
         margin-top: 140px;
-        padding-left: 100px;
     }
 	
     #quote {
