@@ -211,8 +211,12 @@ main {
         margin-left: 35px;
     }
 	
-    .portf {
-        padding-top: 50px;
+    .portfh1 {
+        height: 550px;
+        text-align: center;
+        padding-top: 45px;
+        font-family: 'Montserrat','Times New Roman';
+        font-weight: 900;
     }
 	
     .portfh1  h1 {
