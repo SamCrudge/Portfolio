@@ -308,6 +308,10 @@ main {
           height: 226px;
           margin-top: 57px;
       }
+      
+      .skills ul {
+          width: 65%;
+      }
 	  
       .container3 {
           float: none;
