@@ -248,7 +248,6 @@ main {
     .skills li {
         float: left;
         margin-top: 50px;
-        margin-left: 80px;
     }
 	
     .projectlist img {
