@@ -118,8 +118,8 @@ main {
     list-style: none;
 	overflow: auto;
 	padding: 0;
-	margin: 70px auto;
-	width: 92%;
+	margin: 0 auto;
+	width: 93%;
 }
 
 .skills li {
