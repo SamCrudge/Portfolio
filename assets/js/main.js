@@ -86,8 +86,8 @@ $(document).ready(function() {
 
     typed.typed({
       strings: strings,
-      typeSpeed: 100,
-      loop: true,
+      typeSpeed: 75,
+      loop: false,
     });
   });
 
