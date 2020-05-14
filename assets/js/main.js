@@ -81,12 +81,12 @@ $(document).ready(function() {
 
   $(function() {
     var strings = $('.typed-items').text();
-    strings = $('.typed-items').data('typed-person') + ',' + strings;
+    strings = $('.typed-items').data('typed-person') + ',' + strings + ', Sam Crudge';
     strings = strings.split(',');
 
     typed.typed({
       strings: strings,
-      typeSpeed: 75,
+      typeSpeed: 85,
       loop: false,
     });
   });
